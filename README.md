@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Comment checker mon taff : 
 
-Things you may want to cover:
+Effectue un : bundle install
+rails db:seed
+rails c , puis teste mon programme 
+tp Doctor.all
+tp Patient.all
+tp Appointment.all
+tp City.all
+tp Specialty.all
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
